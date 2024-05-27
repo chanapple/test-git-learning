@@ -2,7 +2,8 @@ a.txt create
 edit
 line
 main
+dodo!
 hoon
-won
+won << babo
 sunga
 chan
