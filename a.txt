@@ -2,9 +2,10 @@ a.txt create
 edit
 line
 main
+ji << dongsoop
 kdh
 dodo!
-hoon
+hoon << byebye
 won << babo
 sunga
 chan
