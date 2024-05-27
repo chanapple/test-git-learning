@@ -3,6 +3,7 @@ edit
 line
 main
 ji << dongsoop
+kdh
 dodo!
 hoon << byebye
 won << babo
