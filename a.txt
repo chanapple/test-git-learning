@@ -2,3 +2,4 @@ a.txt create
 edit
 line
 main
+ji
